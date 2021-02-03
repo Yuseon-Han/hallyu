@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027213949635",
+    "project_id": "yuseon-sample",
+    "storage_bucket": "yuseon-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027213949635:android:3361a22d6b3197cb4f0076",
+        "android_client_info": {
+          "package_name": "com.yuseon.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027213949635-7d33h38sv5k8fsbvrf5h9sjd5a3bta5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZ4pp_ijLGjLYErIvA4ZMdlsY5CyFACQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027213949635-7d33h38sv5k8fsbvrf5h9sjd5a3bta5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

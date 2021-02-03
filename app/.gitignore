@@ -1,0 +1,39 @@
+# Mac
+.DS_Store
+
+# Intellij
+*.iml
+.idea
+.idea/
+# Gradle files
+.gradle/
+
+# Generated file
+/build
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+*.li
+
+# fastlane specific
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+*.keystore
+
+*.apk
+.gradle
+local.properties
+build
+captures
+
+# Google Services (e.g. APIs or Firebase)
+gradle/wrapper/gradle-wrapper.properties
